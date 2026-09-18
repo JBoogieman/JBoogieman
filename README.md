@@ -26,20 +26,9 @@ I'm not an expert. I'm a guy who's trying really hard and taking notes. If you'r
 <br>
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JBoogieman&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api?username=JBoogieman&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="GitHub stats"/>
-</picture>
-</p>
-<p align="center">
-<picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JBoogieman&theme=github-dark-blue&hide_border=true">
 <img src="https://streak-stats.demolab.com?user=JBoogieman&hide_border=true" alt="Contribution streak"/>
 </picture>
 </p>
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JBoogieman&layout=compact&theme=github_dark&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBoogieman&layout=compact&hide_border=true" alt="Top languages"/>
-</picture>
-</p>
+<!-- More stats cards coming: self-generated via GitHub Actions so they can't break when someone else's server dies -->
 </details>
