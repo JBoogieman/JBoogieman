@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hey, I'm Justin 👋
 
-<!--
-**JBoogieman/JBoogieman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems Engineer · Omaha, NE**
 
-Here are some ideas to get you started:
+I manage a fleet of ~25,000 Windows workstations for a Class I railroad — patch management, software deployment, ConfigMgr/MECM administration, and the occasional "why did 400 machines all do that at 2 AM" mystery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=flat&logo=powershell&logoColor=white)
+![ConfigMgr](https://img.shields.io/badge/MECM%2FConfigMgr-0078D4?style=flat)
+![Windows](https://img.shields.io/badge/Windows%20Fleet-~25k%20endpoints-blue?style=flat)
+![UNO](https://img.shields.io/badge/M.S.%20Cybersecurity-in%20progress-D71920?style=flat)
+
+## About me
+
+No certs. No alphabet soup after my name. Just a bachelor's degree, a master's in progress, and a stubborn refusal to do anything manually more than twice.
+
+- 🎓 Working on my **M.S. in Cybersecurity (Cyber Operations)** at the University of Nebraska at Omaha
+- 🖥️ Day job: keeping ~25k endpoints patched, deployed, and behaving (mostly)
+- ⚡ PowerShell is my love language — if I have to do it twice, it becomes a script
+- 🔐 Currently elbow-deep in software assurance coursework, learning to break things on purpose instead of by accident
+- 👨‍👧 Dad. Grad student. Full-time employee. Sleep is theoretical.
+
+I'm not an expert. I'm a guy who's trying really hard and taking notes. If you're a classmate, a coworker, or a rando who wandered in here — welcome. Most of what I know, I learned by getting it wrong first.
+
+<details>
+<summary><b>📊 Stats for nerds</b> <i>(the numbers are small, but they're mine)</i></summary>
+<br>
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JBoogieman&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=JBoogieman&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="GitHub stats"/>
+</picture>
+</p>
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JBoogieman&theme=github-dark-blue&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=JBoogieman&hide_border=true" alt="Contribution streak"/>
+</picture>
+</p>
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JBoogieman&layout=compact&theme=github_dark&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBoogieman&layout=compact&hide_border=true" alt="Top languages"/>
+</picture>
+</p>
+</details>
