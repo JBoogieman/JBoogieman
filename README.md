@@ -2,7 +2,7 @@
 
 **Systems Engineer · Omaha, NE**
 
-I manage a fleet of ~25,000 Windows workstations for a Class I railroad — patch management, software deployment, ConfigMgr/MECM administration, and the occasional "why did 400 machines all do that at 2 AM" mystery.
+I manage a fleet of ~25,000 Windows workstations for a Class I railroad — patch management, software deployment, ConfigMgr/MECM administration, and the occasional "why did 400 machines all do that" mystery.
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=flat&logo=powershell&logoColor=white)
 ![ConfigMgr](https://img.shields.io/badge/MECM%2FConfigMgr-0078D4?style=flat)
@@ -11,11 +11,11 @@ I manage a fleet of ~25,000 Windows workstations for a Class I railroad — patc
 
 ## About me
 
-No certs. No alphabet soup after my name. Just a bachelor's degree, a master's in progress, and a stubborn refusal to do anything manually more than twice.
+No certs. No alphabet soup after my name. Just a bachelor's degree, a master's in progress, and a stubborn refusal to do anything the easy way.
 
 - 🎓 Working on my **M.S. in Cybersecurity (Cyber Operations)** at the University of Nebraska at Omaha
 - 🖥️ Day job: keeping ~25k endpoints patched, deployed, and behaving (mostly)
-- ⚡ PowerShell is my love language — if I have to do it twice, it becomes a script
+- ⚡ PowerShell is my love language
 - 🔐 Currently elbow-deep in software assurance coursework, learning to break things on purpose instead of by accident
 - 👨‍👧 Dad. Grad student. Full-time employee. Sleep is theoretical.
 
