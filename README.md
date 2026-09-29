@@ -21,6 +21,18 @@ No certs. No alphabet soup after my name. Just a bachelor's degree, a master's i
 
 I'm not an expert. I'm a guy who's trying really hard and taking notes. If you're a classmate, a coworker, or a rando who wandered in here — welcome. Most of what I know, I learned by getting it wrong first.
 
+## 🛠️ Open source work
+
+Fixing real bugs in projects I use and study. Statuses are honest: nothing counts until it's merged.
+
+| Project | Issue | What I did | Status |
+|---|---|---|---|
+| [Keycloak](https://github.com/keycloak/keycloak) | [#20008](https://github.com/keycloak/keycloak/issues/20008) UMA policy creation missing from audit log | Reproduced on 26.7.4, root-caused, proposed fix + test plan | 🟡 Awaiting maintainer |
+
+<sub>🔍 Investigating → 🟡 Awaiting maintainer → 🔨 In progress → 📬 PR open → ✅ Merged</sub>
+
+📋 What I'm eyeing next: [contribution board](https://github.com/users/JBoogieman/projects/2)
+
 <details>
 <summary><b>📊 Stats for nerds</b> <i>(the numbers are small, but they're mine)</i></summary>
 <br>
