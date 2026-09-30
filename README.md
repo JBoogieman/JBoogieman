@@ -27,7 +27,8 @@ Fixing real bugs in projects I use and study. Statuses are honest: nothing count
 
 | Project | Issue | What I did | Status |
 |---|---|---|---|
-| [Keycloak](https://github.com/keycloak/keycloak) | [#20008](https://github.com/keycloak/keycloak/issues/20008) UMA policy creation missing from audit log | Reproduced on 26.7.4, root-caused, proposed fix + test plan | 🟡 Awaiting maintainer |
+| [Keycloak](https://github.com/keycloak/keycloak) | [#20008](https://github.com/keycloak/keycloak/issues/20008) UMA policy creation missing from audit log | Reproduced, root-caused, and fixed it so policy creation is audited like update/delete, with an integration test that fails without the fix | 📬 PR open ([#53316](https://github.com/keycloak/keycloak/pull/53316)) |
+| [Keycloak](https://github.com/keycloak/keycloak) | [#53249](https://github.com/keycloak/keycloak/issues/53249) Brute-force lockout not reset by IdP login | Traced the likely cause in the code; asked maintainers a design question before writing a fix | 🟡 Awaiting maintainer |
 
 <sub>🔍 Investigating → 🟡 Awaiting maintainer → 🔨 In progress → 📬 PR open → ✅ Merged</sub>
 
