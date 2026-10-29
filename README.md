@@ -2,7 +2,7 @@
 
 **Systems Engineer · Omaha, NE**
 
-I manage a fleet of ~25,000 Windows workstations for a Class I railroad — patch management, software deployment, ConfigMgr/MECM administration, and the occasional "why did 400 machines all do that" mystery.
+I manage a fleet of ~25,000 Windows workstations — patch management, software deployment, ConfigMgr/MECM administration, and the occasional "why did 400 machines all do that" mystery.
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=flat&logo=powershell&logoColor=white)
 ![ConfigMgr](https://img.shields.io/badge/MECM%2FConfigMgr-0078D4?style=flat)
